@@ -3,7 +3,7 @@ body {
 }
 
 .title {
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 
 h1 {
@@ -22,7 +22,7 @@ a {
 }
 
 .design {
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 
 h3 {
@@ -32,5 +32,6 @@ h3 {
 }
 
 .footer {
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("./resources/images/the-flatiron-building.png");
+  text-align: left;
 }
