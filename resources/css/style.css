@@ -39,6 +39,7 @@ h4 {
 }
 
 .footer {
+  word-spacing: 2px;
   font-family: Helvetica;
   font-size: 11px;
   background-color: dimgray;
