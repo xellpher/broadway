@@ -32,6 +32,7 @@ h3 {
 }
 
 .footer {
+  font-family: Helvetica;
   background-image: url(../images/the-flatiron-building.png);
   text-align: left;
   color: white;
