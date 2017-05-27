@@ -14,11 +14,16 @@ h1 {
   text-align: center;
 }
 
-a {
+#mainmenu.a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
+}
+
+#mainmenu.li {
+  display: inline-block;
+  list-style: none;
 }
 
 .design {
@@ -50,7 +55,6 @@ p {
 }
 
 .footer {
-  word-spacing: 2px;
   font-family: Helvetica;
   font-size: 11px;
   background-color: dimgray;
