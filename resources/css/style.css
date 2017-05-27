@@ -51,6 +51,8 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .footer {
