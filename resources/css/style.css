@@ -4,6 +4,7 @@ body {
 
 .title {
   background-image: url("./resources/images/the-flatiron-building.png");
+  background-color: lightblue;
 }
 
 h1 {
