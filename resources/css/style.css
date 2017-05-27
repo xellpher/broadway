@@ -61,10 +61,13 @@ p {
   color: white;
 }
 
-#footermenu li {
+#footermenu a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+}
+
+#footermenu li {
   display: inline-block;
   list-style: none;
 }
