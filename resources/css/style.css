@@ -2,6 +2,10 @@ body {
   text-align: center;
 }
 
+.title {
+  background-image: url("./resources/images/the-flatiron-building.png")
+}
+
 h1 {
   font-family: Helvetica;
   font-size: 70px;
@@ -17,8 +21,16 @@ a {
   text-align: center;
 }
 
+.design {
+  background-image: url("./resources/images/the-flatiron-building.png")
+}
+
 h3 {
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
+}
+
+.footer {
+  background-image: url("./resources/images/the-flatiron-building.png")
 }
