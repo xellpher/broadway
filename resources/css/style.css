@@ -53,7 +53,7 @@ p {
   color: white;
 }
 
-.footer {
+#copy {
   font-family: Helvetica;
   font-size: 11px;
   background-color: dimgray;
@@ -64,6 +64,7 @@ p {
 #footermenu li {
   font-family: Helvetica;
   font-size: 18px;
+  color: white;
   display: inline-block;
   list-style: none;
 }
