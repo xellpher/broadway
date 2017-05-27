@@ -14,14 +14,14 @@ h1 {
   text-align: center;
 }
 
-#mainmenu.a {
+#mainmenu a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
 }
 
-#mainmenu.li {
+#mainmenu li {
   display: inline-block;
   list-style: none;
 }
