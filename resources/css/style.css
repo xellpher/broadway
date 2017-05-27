@@ -54,10 +54,13 @@ p {
 }
 
 .footer {
-  font-family: Helvetica;
-  font-size: 11px;
   background-color: dimgray;
   text-align: left;
+}
+
+#copy {
+  font-family: Helvetica;
+  font-size: 11px;
   color: white;
 }
 
