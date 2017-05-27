@@ -4,6 +4,8 @@ body {
 
 .title {
   background-image: url(../images/the-flatiron-building.png);
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 h1 {
