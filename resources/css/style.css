@@ -34,4 +34,5 @@ h3 {
 .footer {
   background-image: url(../images/the-flatiron-building.png);
   text-align: left;
+  color: white;
 }
