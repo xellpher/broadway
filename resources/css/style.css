@@ -2,7 +2,7 @@ body {
   text-align: center;
 }
 
-.title {
+nav.title {
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
 }
@@ -52,8 +52,8 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .footer {
